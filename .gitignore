@@ -2,4 +2,6 @@
 .vscode/
 build/
 managed_components/
+cmake-build-debug/
+.idea/
 sdkconfig
